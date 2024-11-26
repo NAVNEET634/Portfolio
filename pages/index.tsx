@@ -27,14 +27,7 @@ export default function home() {
           property="og:title"
           content="Navneet Kumar | Software Developer | Professional Portfolio"
         />
-        {/* <meta property="og:type" content="article" /> */}
-        {/* To CHange the url */}
-        {/* <meta property="og:url" content="https://deverajc.com/" /> */}
-        {/* Portfolio thumbnail Image */}
-        {/* <meta
-          property="og:image"
-          content="https://deverajc.com/screenshot.png"
-        /> */}
+        
         <meta
           property="og:description"
           content="Hey! I'm Navneet Kumar, and I'm a Software Developer."
