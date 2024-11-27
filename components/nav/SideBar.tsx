@@ -30,7 +30,7 @@ export const SideBar = () => {
       <motion.nav
         initial={{ x: -70 }}
         animate={{ x: 0 }}
-        transition={{ duration: 0.5 }}
+        transition={{ duration: 0.5 }}   
         className={styles.sideBar}
       >
         <span
@@ -41,13 +41,13 @@ export const SideBar = () => {
               : (document.location.hash = "");
           }}
         >
-          KT<span>.</span>
+          NK<span>.</span>
         </span>
         <motion.a
           initial={{ x: -70 }}
           animate={{ x: 0 }}
           transition={{ duration: 0.5, delay: 0.1 }}
-          href="#about"
+          href="#about"      
           onClick={() => {
             setSelected("about");
           }}
@@ -65,7 +65,7 @@ export const SideBar = () => {
         >
           Projects
         </motion.a>
-        {/* <motion.a
+        { <motion.a
           initial={{ x: -70 }}
           animate={{ x: 0 }}
           transition={{ duration: 0.5, delay: 0.3 }}
@@ -74,7 +74,7 @@ export const SideBar = () => {
           className={selected === "experience" ? styles.selected : ""}
         >
           Exp.
-        </motion.a> */}
+        </motion.a> }
         <motion.a
           initial={{ x: -70 }}
           animate={{ x: 0 }}
