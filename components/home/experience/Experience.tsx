@@ -14,66 +14,76 @@ export const Experience = () => {
 
 const experience = [
   {
-    title: "Foxivision Screening Services Pvt Ltd",
-    position: "Fullstack Developer",
-    time: "September 2024 - Till Now",
-    location: "Naraina Industrial Area Phase - 1",
+    title: "RadicalMinds Technologies Pvt Ltd",
+    position: "Software Developer",
+    time: "Nov 2022 - Current",
+    location: "Gurugram,Udyog Vihar phase-2",
     description:
-      "As a Full Stack Developer, I bridge the gap between the technical aspects of an application and its business objectives. My role involves collaborating with cross-functional teams, including application management, engineers, designers, and stakeholders, to ensure the successful development, implementation, and improvement of technology solutions. I lead the execution of technical projects from start to finish, overseeing project requirements, timelines, and budgets. This includes defining requirements with engineering, operations, and product teams, and creating technical documentation, such as functional specifications, API docs, user guides, and release notes. Beyond project management, I evaluate emerging technologies, frameworks, and tools to assess their feasibility and impact, recommending technical enhancements and process improvements. I also serve as the primary contact for stakeholders, providing updates on project progress, risks, and mitigation strategies. To ensure continuous improvement, I monitor product performance, analyze user feedback, and track market trends. Working closely with the product team, I help prioritize enhancements, bug fixes, and optimizations to keep our solutions aligned with business needs. I ensure that all deliverables meet industry standards and regulations, maintaining high quality and compliance. I stay updated on industry trends, especially in applications and machine learning, conducting research to identify tools, frameworks, and best practices. This fosters a culture of continuous learning within the team. I contributed to application development based on the latest technologies and business requirements, utilizing my skills in technologies such as HTML, CSS, JavaScript, SQL, Python, Ruby, and Java, along with frameworks like React, Angular, and Ruby on Rails. I also demonstrated a strong ability to quickly learn and adapt to new technologies, ensuring that our projects remained innovative and efficient.",
+      "Create functional, high-level, dynamic and reusable components. Coordinated on team for QA, bug fixes, features and code refactoring.",
     tech: [
       
       "React",
-      "Node",
-      "React Native",
-      "Javascript",
-      "PHP",
-      "MongoDB",
-      "MySQL",
-      "CSS",
       "HTML",
-      "Bootstrap",
-      "Wordpress",
-      "Zoho Creator"
+      "CSS",
+      "SQL",
+      "BOOTSTRAP",
+      "JAVASCRIPT",
+      "Git",
+      "Github",
     ],
   },
   {
-    title: "Bioroles Automation Systems Pvt Ltd",
-    position: "Software Developer",
-    time: "December 2023 - September 2024",
-    location: "Okhla Phase 1, New Delhi",
+    title: "Advance Technologies Integration, LLC.",
+    position: "Javascript Developer",
+    time: "May 2023 - August 2023",
+    location: "Rocklin, California 95765",
     description:
-      "As a Software Developer, my role encompasses crafting responsive and user-friendly front-end interfaces using React.js, while designing and optimizing back-end systems with Node.js and Express.js to enhance application performance and scalability. I collaborate closely with cross-functional teams to gather requirements, design, and implement solutions that align with business needs and elevate the user experience. My technical expertise includes React.Js, Node.Js, HTML5, CSS3, JavaScript, Bootstrap, and MySQL, enabling me to deliver innovative features and functionalities. Specializing in platforms such as HRMS (Human Resource Management Systems) and VMS (Visitor Management Systems), I have been instrumental in developing systems that streamline HR processes and improve employee management. My work on HRMS includes designing modules for employee onboarding, attendance tracking, payroll processing, and performance management, ensuring seamless integration and user satisfaction. I excel in diagnosing and resolving complex software issues reported by both external clients and internal users. I meticulously document and track reported problems, ensuring their resolution through a structured ticketing system or support database. Additionally, I have created a CloudTA mobile app in React Native, available for both Android and iOS. I am dedicated to leveraging my skills to drive business success, continuously improving operational efficiency and the overall user experience.",
-      tech: [
-      
-        "React",
-        "Node",
-        "React Native",
-        "Javascript",
-        "MySQL",
-        "CSS",
-        "HTML",
-        "Bootstrap",
-        "Wordpress",
-      ],
+      "I help build and scale core javascript functions and created test units. Also created reusable components for the front end and Azure API integrations.",
+    tech: ["JavaScript", "Vuejs", "Azure API", "Git", "GitLab"],
   },
   {
-    title: "Radical Minds Technologies Pvt Ltd",
-    position: "Software Developer",
-    time: "January 2023 - December 2023",
-    location: "Udyog Vihar Phase 2, Gurugram",
+    title: "Advance Technologies Integration, LLC.",
+    position: "Javascript Developer",
+    time: "Apr 2022 - Jun 2022",
+    location: "Rocklin, California 95765",
     description:
-      "As a Software Developer, my role encompassed addressing a spectrum of software issues across multiple platforms such as CRM, Dialer, QMS, Helpdesk Tool, and IMS. This involved not only software development but also database management. I specialized in crafting dynamic and cross-browser compatible pages utilizing HTML5, CSS3, and JavaScript (specifically React and Redux), while consistently delivering new features and functionalities. My responsibilities extended to diagnosing and troubleshooting software problems reported by both external customers and internal users. I meticulously documented and tracked reported issues, ensuring their resolution through a structured ticketing system or support database. Furthermore, I possess extensive proficiency in managing and maintaining the Vicidial Dialer System, a critical open-source call center software. My duties encompassed guaranteeing the stability and optimal performance of the system, which entailed system configuration, troubleshooting, and stringent security measures.",
-      tech: [
-      
-        "React",
-        "Node",
-        "Javascript",
-        "MySQL",
-        "CSS",
-        "HTML",
-        "Bootstrap"
-      ],
+      "I help build and scale core javascript functions and created test units. Also created reusable components for the front end and Azure API integrations.",
+    tech: ["JavaScript", "Vuejs", "Azure API", "Git", "GitLab"],
   },
-  
-  
+  {
+    title: "Rocky Mountain West Insurance LLC.",
+    position: "Vuejs Developer",
+    time: "Aug 2021 - Jan 2022",
+    location: "Grand Junction, CO",
+    description:
+      "Vuejs Developer for Rocky Mountain West Insurance LLC. Created dashboard, reusable components from scratch and integrate api.",
+    tech: ["Vuejs", "MongoDB", "Postgres", "Python", "Git", "Github"],
+  },
+  {
+    title: "Simple Cloudology",
+    position: "React Developer",
+    time: "Jan 2020 - April 2021",
+    location: "Sheridan, Wyoming",
+    description:
+      "Worked as a developer and created dynamic reusable components, integrate calendly, messaging functionality and project management features.",
+    tech: [
+      "React",
+      "Nextjs",
+      "Sytled Components",
+      "Firebase Auth",
+      "Websockets",
+      "Calendly",
+      "Git",
+      "Github",
+    ],
+  },
+  {
+    title: "IFormat Logic",
+    position: "Fullstack Developer",
+    time: "Aug 2020 - Dec 2020",
+    location: "Palanginan, Zambales",
+    description:
+      "Managed and created complex projects from start to finish and also collaborated with other developers. Translated requirements into polished, high-level web application.",
+    tech: ["Vuejs", "Laravel", "Tailwind", "Git", "Github"],
+  },
 ];
