@@ -20,17 +20,17 @@ export default function home() {
         />
         <meta
           name="description"
-          content="Hey! I'm Navneet Kumar, and I'm a Software Developer."
+          content="Hey&lsquo; I&apos;m Navneet Kumar, and I&apos;m a Software Developer."
         />
 
         <meta
           property="og:title"
           content="Navneet Kumar | Software Developer | Professional Portfolio"
         />
-        
+
         <meta
           property="og:description"
-          content="Hey! I'm Navneet Kumar, and I'm a Software Developer."
+          content="Hey&lsquo; I&apos;m Navneet Kumar, and I&apos;m a Software Developer."
         />
 
         <meta name="twitter:card" content="summary" />
@@ -41,7 +41,7 @@ export default function home() {
         />
         <meta
           name="twitter:description"
-          content="Hey! I'm Navneet Kumar, and I'm a Software Developer ."
+          content="Hey&lsquo; I&apos;m Navneet Kumar, and I&apos;m a Software Developer."
         />
         <meta name="twitter:creator" content="@jc_devz" />
 
