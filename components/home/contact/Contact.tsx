@@ -17,7 +17,7 @@ export const Contact = () => {
             Have an idea to discuss? Shoot me an email if you want to connect!
             You can also find me on{" "}
             <Link
-              href="https://www.linkedin.com/in/dmkuldeep46"
+              href="https://www.linkedin.com/in/navneet-kumar-a8b3a01bb"
               target="_blank"
               rel="nofollow"
             >
@@ -25,7 +25,7 @@ export const Contact = () => {
             </Link>{" "}
             or{" "}
             <Link
-              href="https://github.com/DMKuldeep"
+              href="https://github.com/navneet634"
               target="_blank"
               rel="nofollow"
             >
@@ -35,10 +35,10 @@ export const Contact = () => {
           </p>
         </Reveal>
         <Reveal width="100%">
-          <p className={styles.contactAccent}>tkuldeep271@gmail.com</p>
+          <p className={styles.contactAccent}>navneetkumar92042@gmail.com</p>
         </Reveal>
         <Reveal width="100%">
-          <Link href="mailto:tkuldeep271@gmail.com">
+          <Link href="mailto:navneetkumar92042@gmail.com">
             <div className={styles.contactEmail}>
               <AiFillMail size="3rem" />
               <span>Send Email</span>
