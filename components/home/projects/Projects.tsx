@@ -20,8 +20,8 @@ const projects = [
   {
     title: "Amazon Clone",
     imgSrc: "/project-imgs/amazon-clone.JPG",
-    code: "https://github.com/navneet634/amazon-clone",
-    projectLink: "https://navneet634.github.io/amazon-clone/",
+    code: "https://github.com/DMKuldeep/amazon-clone",
+    projectLink: "https://dmkuldeep.github.io/amazon-clone/",
     tech: ["React", "CSS", "HTML"],
     description: "A sleek and high-performance landing page for Amazon.",
     modalContent: (
@@ -40,8 +40,8 @@ const projects = [
   {
     title: "Dribble Clone",
     imgSrc: "/project-imgs/dribble-mockup.jpg",
-    code: "https://github.com/navneet634/dribble-clone",
-    projectLink: "https://navneet634.github.io/dribble-clone/",
+    code: "https://github.com/DMKuldeep/dribble-clone",
+    projectLink: "https://dmkuldeep.github.io/dribble-clone/",
     tech: ["HTML", "CSS", "JavaScript"],
     description:
       "Created a frontend clone of a Dribbble design to replicate the original aesthetic and functionality.",
@@ -62,8 +62,8 @@ const projects = [
   {
     title: "DOG API",
     imgSrc: "/project-imgs/dog-list.JPG",
-    code: "https://github.com/navneet634/dogapiassignment",
-    projectLink: "https://navneet634.github.io/RandomI",
+    code: "https://github.com/DMKuldeep/dogapiassignment",
+    projectLink: "https://dmkuldeep.github.io/RandomI",
     tech: ["React", "HTML", "CSS", "Responsive Design", "JS "],
     description:
       "A captivating landing page for DOG List, featuring stunning CSS and responsive design.",
@@ -85,8 +85,8 @@ const projects = [
   {
     title: "Carousel Effect",
     imgSrc: "/project-imgs/choclate.JPG",
-    code: "https://github.com/navneet634/Carousel_Choclate",
-    projectLink: "https://navneet634.github.io/Carousel_Choclate/",
+    code: "https://github.com/DMKuldeep/Carousel_Choclate",
+    projectLink: "https://dmkuldeep.github.io/Carousel_Choclate/",
     tech: ["HTML", "CSS", "CSS Animations", "Carousel", "Responsive Design"],
     description:
       "A landing page for Med Connection, a medical institute, focusing on seamless user experience and informative content.",
@@ -111,5 +111,65 @@ const projects = [
       </>
     ),
   },
-  
+  // {
+  //   title: "Omnifoods",
+  //   imgSrc: "/project-imgs/omnifoods-mockup.jpg",
+  //   code: "https://github.com/saurav-verma-01/Omnifoods",
+  //   projectLink: "https://omnifood-saurav.netlify.app/",
+  //   tech: [
+  //     "HTML",
+  //     "CSS",
+  //     "CSS Animations",
+  //     "CSS Variables",
+  //     "Responsive Design",
+  //     "Web Design",
+  //   ],
+  //   description:
+  //     "Landing Page of a technology company offering premium, fitness-oriented food subscriptions tailored to customers.",
+  //   modalContent: (
+  //     <>
+  //       <p>
+  //         Created a visually compelling landing page for Omnifoods, highlighting
+  //         the company&apos;s innovative approach to providing personalized
+  //         nutrition solutions through sleek design and clear messaging.
+  //       </p>
+  //       <p>
+  //         Focused on user engagement and conversion optimization by designing an
+  //         intuitive and informative interface that effectively communicates
+  //         Omnifoods&apos; value proposition and encourages sign-ups.
+  //       </p>
+  //     </>
+  //   ),
+  // },
+  // {
+  //   title: "E-learning Website",
+  //   imgSrc: "/project-imgs/e-learning-mockup.jpg",
+  //   code: "https://github.com/saurav-verma-01/e-learning-platform-responsive-website",
+  //   projectLink: "https://e-learning-wapp.netlify.app/",
+  //   tech: [
+  //     "HTML",
+  //     "CSS",
+  //     "CSS Animations",
+  //     "CSS Variables",
+  //     "Responsive Design",
+  //     "Web Design",
+  //   ],
+  //   description:
+  //     "A comprehensive multi-page website for an e-learning company entirely using Vanilla HTML, CSS, and JavaScript.",
+  //   modalContent: (
+  //     <>
+  //       <p>
+  //         Built a robust and feature-rich website for the e-learning company,
+  //         leveraging the power of Vanilla HTML, CSS, and JavaScript to deliver
+  //         an immersive and interactive learning experience across multiple
+  //         pages.
+  //       </p>
+  //       <p>
+  //         Focused on usability and accessibility by implementing intuitive
+  //         navigation, engaging content presentation, and seamless functionality,
+  //         catering to the diverse needs of learners and educators.
+  //       </p>
+  //     </>
+  //   ),
+  // },
 ];
