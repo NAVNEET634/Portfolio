@@ -12,16 +12,18 @@ export const Stats = () => {
             <span>Languages & Libraries</span>
           </h4>
           <div className={styles.statGrid}>
-            <span className="chip">React.JS</span>
+          <span className="chip">React.JS</span>
+            <span className="chip">Node.JS</span>
+            <span className="chip">React Native</span>
             <span className="chip">JavaScript ( ES6+ )</span>
-            <span className="chip">Python (Basic)</span>
-            <span className="chip">Tailwind CSS</span>
+            <span className="chip">PHP (Basic)</span>
+            <span className="chip">MySQL</span>
+            <span className="chip">MongoDB</span>
             <span className="chip">CSS</span>
             <span className="chip">HTML</span>
-            <span className="chip">Git</span>
-            <span className="chip">Github</span>
-            <span className="chip">SQL</span>
-
+            <span className="chip">Bootstrap</span>
+            <span className="chip">Wordpress</span>
+            <span className="chip">Zoho Creator</span>
           </div>
         </div>
       </Reveal>
@@ -29,19 +31,21 @@ export const Stats = () => {
         <div className={styles.statColumn}>
           <h4>
             <AiFillCode size="3rem" color="var(--brand-1)" />
-            <span>Tools & Technologies</span>
+            <span>Tools & Platforms</span>
           </h4>
           <div className={styles.statGrid}>
-            <span className="chip">React Query</span>
-            <span className="chip">React Router</span>
-            <span className="chip">SCSS</span>
-            <span className="chip">Css Modules</span>
-            <span className="chip">Styles Components</span>
-            <span className="chip">Figma</span>
-            <span className="chip">VS Code</span>
-            <span className="chip">Vite</span>
-            <span className="chip">JSON</span>
-            <span className="chip">Axios</span>
+          <span className="chip">Git</span>
+            <span className="chip">Github</span>
+            <span className="chip">Versal</span>
+            <span className="chip">AWS</span>
+            <span className="chip">Android Studio</span>
+            <span className="chip">Xcode IDE</span>
+            <span className="chip">Visual Studio</span>
+            <span className="chip">Visual Studio Code</span>
+            <span className="chip">Windows</span>
+            <span className="chip">MacOS</span>
+            <span className="chip">Ubuntu</span>
+            <span className="chip">Linux</span>
           </div>
         </div>
       </Reveal>

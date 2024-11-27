@@ -13,67 +13,60 @@ export const About = () => {
         <div>
           <Reveal>
             <p className={`${styles.aboutText} ${styles.highlightFirstLetter}`}>
-              Hey there! Welcome to my portfolio! I&apos;m a Frontend Developer
-              who loves creating awesome websites using the latest tech.
-              <br />
-              <br />
-              I&apos;m really good at using React.js, HTML , CSS , Bootstrap JS & SQL.
-              These tools help me be super creative and bring fresh ideas to
-              every project.
+              Hi there! I'm an experienced Full Stack Developer with a proven track
+              record in the IT sector. I specialize in building robust, scalable, and
+              efficient solutions using a variety of technologies, including React.js,
+              Node.js, React Native, JavaScript, HTML, CSS, MySQL, MongoDB, PHP, WordPress,
+              and Zoho Creator.
             </p>
           </Reveal>
           <Reveal>
             <p className={styles.aboutText}>
-              I know a bunch of other cool stuff too, like Tailwind CSS, regular
-              CSS, SCSS, styled-components, and CSS modules. With these tools, I
-              can make websites that look great and work perfectly on any
-              device. Whether it&apos;s making sure everything looks good on a
-              phone or making websites load super fast, I&apos;m all about
-              making sure people have a great experience.
+              My expertise spans across the full software development lifecycle, from crafting responsive front-end designs
+              to optimizing back-end performance and database management. I ensure seamless functionality and high-quality
+              outcomes in all projects I work on.
             </p>
           </Reveal>
           <Reveal>
             <p className={styles.aboutText}>
-              I also know how to add fun animations to websites using frameworks
-              like Framer Motion and anime.js. It&apos;s all about making
-              websites feel alive and exciting for users!
+              I thrive in both application development and support. Whether it’s resolving complex technical challenges,
+              providing post-deployment support, or performing performance tuning, I ensure uninterrupted functionality and
+              superior user experiences.
             </p>
           </Reveal>
           <Reveal>
             <p className={styles.aboutText}>
-              I&apos;ve worked on lots of projects that show off my skills.
-              I&apos;ve built websites that are fast, easy to use, and
-              accessible to everyone. Whether it&apos;s making sure the pages
-              load quickly or handling all the technical stuff behind the
-              scenes, I&apos;ve got it covered.
+              I'm committed to staying ahead of industry trends, including machine learning and emerging technologies.
+              I continuously research and implement best practices to bring innovative and efficient solutions to the
+              teams I collaborate with.
             </p>
           </Reveal>
           <Reveal>
             <p className={styles.aboutText}>
-              I&apos;m always learning and staying up-to-date with the latest
-              trends in frontend development. I want to make sure I&apos;m
-              always bringing fresh ideas and solutions to the table.
+              My technical skill set includes advanced proficiency in PHP, WordPress, Zoho Creator, functional programming,
+              cross-browser compatibility, and web performance optimization. I excel in building accessible, user-friendly
+              websites and applications that meet diverse business requirements.
             </p>
           </Reveal>
           <Reveal>
             <p className={styles.aboutText}>
-              If you need a Frontend Developer who&apos;s dedicated, versatile,
-              and can turn your ideas into something amazing, I&apos;m your
-              person! Let&apos;s work together and create something awesome! 🔗
+              If you're looking for a versatile Full Stack Developer who excels at both development and ongoing support,
+              let's work together to turn your ideas into high-quality, maintainable digital solutions!
             </p>
           </Reveal>
           <Reveal>
             <div className={styles.statColumn}>
               <h4>
                 <AiFillCode size="3rem" color="var(--brand-1)" />
-                <span>Things I can help you with.</span>
+                <span>Things I can help you with:</span>
               </h4>
               <div className={styles.statGrid}>
-                <span className="chip">Web Development</span>
+                <span className="chip">Full Stack Development</span>
+                <span className="chip">Application Development</span>
+                <span className="chip">Application Support</span>
+                <span className="chip">Database Optimization</span>
+                <span className="chip">API Development</span>
                 <span className="chip">Responsive Web Design</span>
-                <span className="chip">Api Data Handling</span>
-                <span className="chip">Cross Browser Compatibility</span>
-                <span className="chip">Functional Programming</span>
                 <span className="chip">Web Performance Optimization</span>
               </div>
             </div>
