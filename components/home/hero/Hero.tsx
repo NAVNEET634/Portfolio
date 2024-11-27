@@ -13,17 +13,20 @@ export const Hero = () => {
         <div className={styles.copyWrapper}>
           <Reveal>
             <h1 className={styles.title}>
-              <span>Navneet</span> <br /> Kumar
+              <span>Kuldeep</span> <br /> Tripathi
             </h1>
           </Reveal>
           <Reveal>
             <h2 className={styles.subTitle}>
-              I&apos;m a <span>Software Developer</span>
+              I&apos;m a <span>Frontend Developer</span>
             </h2>
           </Reveal>
           <Reveal>
             <p className={styles.aboutCopy}>
-            Passionate Software Developer proficient in React.Js, Node.Js, React Native, JavaScript, MySQL, MongoDB, HTML, CSS, Bootstrap, Wordpress, and Zoho Creator. Experienced in building scalable web applications, optimizing performance, and creating seamless user experiences. Let's collaborate to deliver impactful digital solutions!
+              Passionate Frontend Developer adept in HTML5, CSS3, and JavaScript
+              ES6, specializing in React JS. Skilled in responsive design and
+              UI/UX principles, I excel in crafting engaging web experiences.
+              Let&apos;s collaborate to create impactful digital solutions!
             </p>
           </Reveal>
           <Reveal>
@@ -43,3 +46,19 @@ export const Hero = () => {
   );
 };
 
+{
+  /* <motion.div
+          initial={{ y: -30, opacity: 0 }}
+          animate={{ y: 0, opacity: 1 }}
+          transition={{ duration: 0.5, delay: 0.4 }}
+        >
+          <Image
+            className={styles.profile}
+            src={Profile}
+            priority
+            alt="John Carlo Devera | Frontend Developer"
+            width={250}
+            height={250}
+          />
+        </motion.div> */
+}
