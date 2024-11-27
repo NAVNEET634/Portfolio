@@ -23,7 +23,7 @@ export const Hero = () => {
           </Reveal>
           <Reveal>
             <p className={styles.aboutCopy}>
-            Passionate Software Developer proficient in React.Js, Node.Js, React Native, JavaScript, MySQL, MongoDB, HTML, CSS, Bootstrap, Wordpress, and Zoho Creator. Experienced in building scalable web applications, optimizing performance, and creating seamless user experiences. Let's collaborate to deliver impactful digital solutions!
+              Passionate Software Developer proficient in React.Js, Node.Js, React Native, JavaScript, MySQL, MongoDB, HTML, CSS, Bootstrap, WordPress, and Zoho Creator. Experienced in building scalable web applications, optimizing performance, and creating seamless user experiences. Let&apos;s collaborate to deliver impactful digital solutions!
             </p>
           </Reveal>
           <Reveal>
@@ -42,4 +42,3 @@ export const Hero = () => {
     </section>
   );
 };
-
