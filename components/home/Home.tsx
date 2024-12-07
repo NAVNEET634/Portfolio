@@ -5,7 +5,7 @@ import styles from "./home.module.scss";
 import { Heading } from "../nav/Heading";
 import { About } from "./about/About";
 import { Projects } from "./projects/Projects";
-// import { Experience } from "./experience/Experience";
+import { Experience } from "./experience/Experience";
 import { Contact } from "./contact/Contact";
 
 export const Home = () => {
@@ -18,7 +18,7 @@ export const Home = () => {
           <Hero />
           <About />
           <Projects />
-          {/* <Experience /> */}
+          <Experience />
           <Contact />
           <div
             style={{
